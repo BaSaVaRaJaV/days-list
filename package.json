@@ -1,0 +1,29 @@
+{
+  "name": "days-json",
+  "version": "1.0.0",
+  "description": "Gives the days list in json object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaSaVaRaJaV/days-list.git"
+  },
+  "keywords": [
+    "\"days\"",
+    "\"days",
+    "in",
+    "json",
+    "object\"",
+    "\"days",
+    "for",
+    "dropdown\""
+  ],
+  "author": "Basavaraja V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaSaVaRaJaV/days-list/issues"
+  },
+  "homepage": "https://github.com/BaSaVaRaJaV/days-list#readme"
+}
