@@ -1,5 +1,5 @@
 {
-  "name": "days-json",
+  "name": "days-list",
   "version": "1.0.0",
   "description": "Gives the days list in json object",
   "main": "index.js",
