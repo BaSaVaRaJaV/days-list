@@ -22,9 +22,6 @@ var days=daysForDropdown()
 console.log("Days list:",days)
 
 ```
-```html
-<div class="sharethis-inline-follow-buttons"></div>
-```
 
 ## Author
 
