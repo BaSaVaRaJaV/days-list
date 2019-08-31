@@ -1,3 +1,4 @@
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/rajdivya)
 # days-list [![NPM version](https://img.shields.io/npm/v/days-list.svg?style=flat)](https://www.npmjs.com/package/days-list)
 
 >  Gives an days list in JSON object
@@ -14,14 +15,24 @@ $ npm install days-list --save
 
 ## Usage
 
-
-
 ```js
 var daysForDropdown = require('days-list');
 var days=daysForDropdown()
 console.log("Days list:",days)
 
 ```
+## Follow me on twitter
+[Basavaraja](https://twitter.com/BasavarajaV2)
+
+## Support
+
+**If you enjoy this , please consider [supporting me](https://www.paypal.me/rajdivya/1500) for developing and maintaining this.**
+
+<p align="center">
+  <a href="https://www.paypal.me/rajdivya">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
+  </a>
+</p>
 
 ## Author
 
